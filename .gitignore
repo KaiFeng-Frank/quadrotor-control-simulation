@@ -1,0 +1,31 @@
+# MATLAB / Simulink transient files
+*.asv
+*.autosave
+*.m~
+*.slxc
+*.slx.autosave
+*.mex*
+*.mat
+
+# Keep implementation source private in this public project page
+*.m
+*.mlx
+*.slx
+*.mdl
+
+# Generated caches and local state
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# Keep submission packages and private reports out of the project repo
+*.zip
+*.pdf
+*Final_Submission*
+*Submission*
+*3036507511*
+*Feng*
+*Kai*
+MECH7020_Final_Project_Report.pdf
+report.md
+SUBMISSION_README.txt
