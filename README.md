@@ -118,6 +118,14 @@ assets/
 README.md    public project overview
 ```
 
+## Reproducibility Boundary
+
+This repository is intentionally a public results archive rather than a reusable
+MATLAB package. It includes selected plots, architecture screenshots, videos and
+the control-design summary, but not the original source archive or Simulink
+model files. The README therefore documents the design and measured behavior;
+it does not provide a runnable quick start.
+
 ## Public Release Notes
 
 This repository is intentionally presentation-focused. The implementation
